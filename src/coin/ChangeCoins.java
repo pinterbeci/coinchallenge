@@ -1,4 +1,4 @@
-package main.coin;
+package coin;
 
 public class ChangeCoins {
 
